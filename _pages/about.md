@@ -133,7 +133,7 @@ redirect_from:
         <tr>
             <td>14:30-16:00</td>
             <td>Competition Session:<br>Dynamic Multi-Objective Decision-making for Multi-UAV Cooperative Reconnaissance</td>
-            <td>Prof. Menglun Tao</td>
+            <td>Dr. Biao Xu / Dr. Wenji Li</td>
         </tr>
         <tr>
             <td>16:00-16:30</td>
