@@ -86,7 +86,7 @@ redirect_from:
 <h1>ICIICII 2022 Program</h1>
 <p>(Dec. 16-18, 2022) China Standard Time, GMT+8</p>
 
-<h2>Keynote/Invited Speech - Dec. 18</h2>
+<h2>Keynote/Invited Speech - Dec. 16</h2>
 <p>(Zoom ID: to be confirmed; Password: to be confirmed)</p>
 
 <table>
@@ -162,46 +162,40 @@ redirect_from:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="5">Dec. 17 AM</td>
-            <td>8:30-9:20</td>
-            <td>Speaker: Prof. Arturo Suman Bretas (University of Florida, USA)<br>Title: Cyber-Physical Secure Energy Transition: Models and Algorithms for a Resilient Power System Operation</td>
-            <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
+            <td rowspan="9">Dec. 17 AM</td>
+            <td>9:00-9:10</td>
+            <td>Opening Ceremony<br>Speaker: Prof. Zhifeng Hao</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
-            <td>9:20-10:10</td>
-            <td>Speaker: Prof. Haibin Zhu (Nipissing University, Canada)<br>Title: E-CARGO and Role-Based Collaboration</td>
-            <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
+            <td>9:05-9:30</td>
+            <td>Speaker: Prof. Zhifeng Hao<br>Title: New Thoughts of Sciences Inspired by the Metaverse</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
-            <td>10:10-10:20</td>
-            <td>Break</td>
-            <td></td>
+            <td>9:30-10:20</td>
+            <td>Speaker: Prof. Kaushik Rajashekara<br>Title: Energy Impacts of Autonomous and Connected Vehicles and the Future Trends</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
             <td>10:20-11:10</td>
-            <td>Speaker: Prof. Han Huang<br>Title: Applications of Optimization Based on Computational Intelligence</td>
-            <td>Prof. Liyang Lai / Dr. Dongliang Wang</td>
+            <td>Speaker: Prof. Haibin Zhu<br>Title: Computational Social Simulation using E-CARGO</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
-            <td>11:10-12:00</td>
-            <td>Speaker: Prof. Jianyong Sun<br>Title: Research on Optimization Algorithm Based on Artificial Intelligence -- Preliminary Progress</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td rowspan="7">Dec. 19 PM</td>
             <td>12:00-14:00</td>
             <td>Lunch & Break</td>
             <td></td>
         </tr>
         <tr>
             <td>14:00-14:50</td>
-            <td>Speaker: Prof. Xiaomin Zhu<br>Title: Research on the Aggregation and Emergence of Swarm Intelligence Based on the Evolutionary Mechanism of Organisms</td>
-            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
+            <td>Speaker: Prof. Leonid Ivanov<br>Title: Promising Areas of Research and Technological Cooperation in Different Fields of Engineering</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
             <td>14:50-15:40</td>
-            <td>Speaker: Prof. Yun Liang<br>Title: Generic Interactive Pixel-level Image Editing</td>
-            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
+            <td>Speaker: Prof. Jiang Zhu<br>Title: Challenge for the Next Generation Smart Manufacturing Revolutionized by Digital Technology-- towards the Realization for Super Smart Society (Society 5.0)</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
             <td>15:40-15:50</td>
@@ -210,18 +204,13 @@ redirect_from:
         </tr>
         <tr>
             <td>15:50-16:40</td>
-            <td>Speaker: Prof. Lijun Zhang<br>Title: The Role of Optimisation and Verification in Promoting a Green Society: Vehicles and Industrial Processes as Examples</td>
-            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
+            <td>Speaker: Prof. Huawei Tu<br>Title: Human-Computer Interaction Design Based on the Crossing Paradigm</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
         <tr>
             <td>16:40-17:30</td>
-            <td>Speaker: Prof. Lijie Li (Swansea University, UK)<br>Title: Synergies between Nanogenerator Based Sensors and Artificial Intelligence</td>
-            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
-        </tr>
-        <tr>
-            <td>17:30-18:20</td>
-            <td>Speaker: Prof. Yaochu Jin<br>Title: Privacy-Preserving Data-Driven Evolutionary Optimization</td>
-            <td>Dr. Wenji Li / Dr. Yue Zhang</td>
+            <td>Speaker: Prof. Jiang Wu<br>Title: Evaluation of Nonlinear Vibration Characteristics and Stiffness Compensation of Functional Polymer Ultrasonic Actuators</td>
+            <td>Prof. Zhun Fan</td>
         </tr>
     </tbody>
 </table>
