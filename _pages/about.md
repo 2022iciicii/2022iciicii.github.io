@@ -16,7 +16,7 @@ redirect_from:
 
 <div class="introduction">
     <h2>Introduction</h2>
-    <p>The <strong>Sixth International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2021)</strong> is hosted by <strong>Shantou University, China</strong>, co-hosted by <strong>Russian Academy of Engineering (RAE), Russia</strong> and <strong>Wuhan University of Technology, China</strong>. It is technically sponsored by:</p>
+    <p>The <strong>Sixth International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII 2022)</strong> is hosted by <strong>Shantou University, China</strong>, co-hosted by <strong>Russian Academy of Engineering (RAE), Russia</strong> and <strong>Wuhan University of Technology, China</strong>. It is technically sponsored by:</p>
     <ul>
         <li>International Joint Research Center of Evolutionary Intelligence and Robotics of Guangdong Province, China</li>
         <li>International Cooperation Base of Evolutionary Intelligence and Robotics of Guangdong Province, China</li>
