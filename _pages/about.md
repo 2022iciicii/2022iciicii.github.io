@@ -162,7 +162,7 @@ redirect_from:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="9">Dec. 17 AM</td>
+            <td rowspan="10">Dec. 17 AM</td>
             <td>9:00-9:10</td>
             <td>Opening Ceremony<br>Speaker: Prof. Zhifeng Hao</td>
             <td>Prof. Zhun Fan</td>
