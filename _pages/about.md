@@ -163,7 +163,7 @@ redirect_from:
     <tbody>
         <tr>
             <td rowspan="10">Dec. 17 AM</td>
-            <td>9:00-9:10</td>
+            <td>9:00-9:05</td>
             <td>Opening Ceremony<br>Speaker: Prof. Zhifeng Hao</td>
             <td>Prof. Zhun Fan</td>
         </tr>
@@ -210,6 +210,69 @@ redirect_from:
         <tr>
             <td>16:40-17:30</td>
             <td>Speaker: Prof. Jiang Wu<br>Title: Evaluation of Nonlinear Vibration Characteristics and Stiffness Compensation of Functional Polymer Ultrasonic Actuators</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan="12">Dec. 18 AM</td>
+            <td>8:30-9:20</td>
+            <td>Towards Smart Grids Enhanced Situation Awareness: A Bi-Level Quasi-Static State Estimation Model<br>Speaker: Prof. Arturo Suman Bretas</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>9:20-10:10</td>
+            <td>Speaker: Prof. Prof. Yanjie Wang<br>Title: Ionic Flexible Sensors: from Mechanism, Fabrication to Applications</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>10:10-10:20</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:20-11:10</td>
+            <td>Speaker: Prof. Hui Cheng<br>Title: Control and Perception of Intelligent Robots</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>11:10-12:00</td>
+            <td>Speaker: Prof. Xiaomin Zhu<br>Title: Automatic Design Method of Behavior Logic for Swarm obotics</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>12:00-14:00</td>
+            <td>Lunch & Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00-14:50</td>
+            <td>Speaker: Prof. Liangming Chen<br>Title: Angle Rigidity Graph Theory for Multi-agent Formations</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>14:50-15:40</td>
+            <td>Speaker: Prof. Geng Zhang<br>Title: An Introduction to Hyperspectral Imaging Technology and Its Potential Applications in Intelligent System</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>15:40-15:50</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15:50-16:40</td>
+            <td>Speaker: Prof. Zhongtao Fu<br>Title: Lie-Theory-Based Robot Kinematics-Dynamics Modelling and Application</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>16:40-17:30</td>
+            <td>Speaker: Prof. Chunxu Li<br>Title: Core Research on Human-robot Skill Transfer: an Application to Human-centred Domestic Caregiving Robots</td>
+            <td>Prof. Zhun Fan</td>
+        </tr>
+        <tr>
+            <td>16:40-17:30</td>
+            <td>Speaker: Prof. Qing Zhang<br>Title: Dynamic Semiconductor Junctions for Mechanical-to-electric Power Conversion and Sensing</td>
             <td>Prof. Zhun Fan</td>
         </tr>
     </tbody>
