@@ -22,34 +22,6 @@ redirect_from:
       Please download the <a href="https://zoom.us/download#client_4meeting" target="_blank">ZOOM client software</a> in advance of the conference. ZOOM is available for both desktop and mobile devices.
     </p>
   </div>
-
-  <div class="registration-section">
-    <h2 class="section-title">3. Registration Number and Password</h2>
-    <p class="registration-text">
-      The registration number and password for accessing the conference are as follows:
-    </p>
-    <table class="registration-table">
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Speech</th>
-          <th>ZOOM ID</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Dec. 18, 2021</td>
-          <td>Invited Speech #1</td>
-          <td>944 8859 3478</td>
-        </tr>
-        <tr>
-          <td>Dec. 19, 2021</td>
-          <td>Invited Speech #2</td>
-          <td>944 8859 3478</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
 </div>
 
 <style>
