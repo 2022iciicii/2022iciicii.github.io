@@ -148,7 +148,7 @@ redirect_from:
     </tbody>
 </table>
 
-<h2>Keynote/Invited Speech - Dec. 17</h2>
+<h2>Keynote/Invited Speech - Dec. 17-18</h2>
 <p>(Zoom ID: to be confirmed; Password: to be confirmed)</p>
 
 <table>
